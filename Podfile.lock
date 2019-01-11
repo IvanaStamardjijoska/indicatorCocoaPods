@@ -1,0 +1,16 @@
+PODS:
+  - EqualizerIndicatorView (2.0.1)
+
+DEPENDENCIES:
+  - EqualizerIndicatorView (~> 2.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - EqualizerIndicatorView
+
+SPEC CHECKSUMS:
+  EqualizerIndicatorView: c1c303ef5c803fed3cb723a170120e19e85b072f
+
+PODFILE CHECKSUM: c4267a196c60b10cb566dd7182aa63983f3f2c1a
+
+COCOAPODS: 1.5.3
